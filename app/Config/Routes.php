@@ -34,6 +34,10 @@ $routes->get('/About', 'About::index');
 $routes->get('/Pages', 'Pages::index');
 $routes->get('/Berkas', 'Berkas::create');
 
+//$routes->get('/Berkas', 'Berkas::create');
+
+
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing
